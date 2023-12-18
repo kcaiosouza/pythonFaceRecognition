@@ -13,4 +13,4 @@ Sistema básico de reconhecimento facial utilizando a webcam
 
 ## Funcionando
 
-<img alt="FotoTela" src=".github/exemploFuncionando.png">
+<img alt="FotoTela" src="github/exemploFuncionando.png">
